@@ -1,2 +1,2 @@
-# sardor
+# ILhombek
 umidillayev
